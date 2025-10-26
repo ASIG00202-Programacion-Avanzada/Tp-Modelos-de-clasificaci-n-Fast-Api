@@ -17,7 +17,7 @@ class TrainModel():
     # Funciones
     # ------------------------------
 
-    def load_data(self, path="data/Churn.xlsx"):
+    def load_data(self, path="source_data/Churn.xlsx"):
         """Cargar dataset"""
         df = pd.read_excel(path)
         return df
