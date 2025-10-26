@@ -1,0 +1,83 @@
+ [
+    {
+      "Account_Length": 120,
+      "Area_Code": 415,
+      "Intl_Plan": 0,
+      "Vmail_Plan": 1,
+      "Vmail_Message": 25,
+      "CustServ_Calls": 2,
+      "Total_Calls": 310,
+      "Total_Mins": 800.5,
+      "Total_Charge": 135.75,
+      "High_Usage": 1,
+      "Many_CustServ_Calls": 0
+    },
+    {
+      "Account_Length": 200,
+      "Area_Code": 510,
+      "Intl_Plan": 1,
+      "Vmail_Plan": 0,
+      "Vmail_Message": 0,
+      "CustServ_Calls": 6,
+      "Total_Calls": 500,
+      "Total_Mins": 1500.3,
+      "Total_Charge": 280.45,
+      "High_Usage": 1,
+      "Many_CustServ_Calls": 1
+    },
+    {
+      "Account_Length": 60,
+      "Area_Code": 408,
+      "Intl_Plan": 0,
+      "Vmail_Plan": 0,
+      "Vmail_Message": 0,
+      "CustServ_Calls": 1,
+      "Total_Calls": 200,
+      "Total_Mins": 400.2,
+      "Total_Charge": 75.25,
+      "High_Usage": 0,
+      "Many_CustServ_Calls": 0
+    },
+    {
+      "Account_Length": -10,
+      "Area_Code": 415,
+      "Intl_Plan": 0,
+      "Vmail_Plan": 1,
+      "Vmail_Message": 25,
+      "CustServ_Calls": 2,
+      "Total_Calls": 310,
+      "Total_Mins": 800.5,
+      "Total_Charge": 135.75,
+      "High_Usage": 1,
+      "Many_CustServ_Calls": 0
+    },
+    {
+      "Account_Length": 120,
+      "Area_Code": 415,
+      "Intl_Plan": "yes",
+      "Vmail_Plan": 1,
+      "Vmail_Message": 25,
+      "CustServ_Calls": 2,
+      "Total_Calls": 310,
+      "Total_Mins": 800.5,
+      "Total_Charge": 135.75,
+      "High_Usage": 1,
+      "Many_CustServ_Calls": 0
+    },
+    {
+      "Account_Length": 120,
+      "Area_Code": 415,
+      "Intl_Plan": 0,
+      "Vmail_Plan": 1,
+      "Vmail_Message": 25,
+      "CustServ_Calls": 2,
+      "Total_Calls": 310,
+      "Total_Mins": 800.5,
+      "Total_Charge": 135.75,
+      "High_Usage": 1,
+      "Many_CustServ_Calls": 0,
+      "extra_field": 999
+    }
+  ]
+  
+
